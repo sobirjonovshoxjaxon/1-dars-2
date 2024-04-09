@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    font: 700 60px sans-serif;
+    color: rgb(46, 243, 46);
+    font-style: italic;
+}
+
+span{
+    font: 800 80px sans-serif;
+    text-transform: uppercase;
+    color: rgb(246, 246, 53);
+}
